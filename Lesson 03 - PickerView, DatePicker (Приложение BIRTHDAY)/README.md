@@ -11,11 +11,11 @@
 UIKit, LocalAuthentication
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%203%20-%20PickerView,%20DatePicker%20(Приложение%20BIRTHDAY)/UIPickerView%20(my%20app)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2003%20-%20PickerView,%20DatePicker%20(Приложение%20BIRTHDAY)/UIPickerView%20(my%20app)/Screenshots)
 
 ### Запись экрана приложения
 
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%203%20-%20PickerView,%20DatePicker%20(Приложение%20BIRTHDAY)/UIPickerView%20(my%20app)/Videos/PickerViewApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2003%20-%20PickerView,%20DatePicker%20(Приложение%20BIRTHDAY)/UIPickerView%20(my%20app)/Videos/PickerViewApp.mov)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit, LocalAuthentication
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
