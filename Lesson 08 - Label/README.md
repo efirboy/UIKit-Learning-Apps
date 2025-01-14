@@ -15,7 +15,7 @@ UIKit
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/blob/main/Lesson%2008%20-%20Label/UILabel(my%20app)/Videos/LabelApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2008%20-%20Label/UILabel(my%20app)/Videos/LabelApp.mov)
 
 
 ### Требования
