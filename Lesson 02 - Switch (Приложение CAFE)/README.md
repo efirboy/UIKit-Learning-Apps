@@ -5,18 +5,17 @@
 
 Пользователь должен авторизироваться, ввести ФИО и количество гостей. Опционально можно выбрать бронирование стола, предоплату и VIP-комнату (доступна только при бронировании стола). После подтверждения формируется чек (с заданным меню), который учитывает выбранные опции.
 
-
 [Сделано на основе данного ДЗ](https://vk.com/topic-139873795_35691059)
 
 ### Фреймворки
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%202%20-%20Switch%20(Приложение%20CAFE)/Switch%20(CAFE)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2002%20-%20Switch%20(Приложение%20CAFE)/Switch%20(CAFE)/Screenshots)
 
 ### Запись экрана приложения
 
-[Запись экрана](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%202%20-%20Switch%20(Приложение%20CAFE)/Switch%20(CAFE)/Videos/SwitchApp.mov)
+[Запись экрана](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2002%20-%20Switch%20(Приложение%20CAFE)/Switch%20(CAFE)/Videos/SwitchApp.mov)
 
 
 ### Требования
@@ -27,4 +26,4 @@ UIKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
