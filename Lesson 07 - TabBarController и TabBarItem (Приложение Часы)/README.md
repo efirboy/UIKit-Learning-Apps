@@ -13,11 +13,11 @@ UIKit
 AVFoundation
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%207%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Screenshots/)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2007%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Screenshots)
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%207%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Videos/UITabBarControllerApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/blob/main/Lesson%2007%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Videos/UITabBarControllerApp.mov)
 
 
 ### Требования
@@ -28,4 +28,4 @@ AVFoundation
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
