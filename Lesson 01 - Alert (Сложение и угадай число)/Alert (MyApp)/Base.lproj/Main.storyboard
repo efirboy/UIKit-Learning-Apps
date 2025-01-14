@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Alert__MyApp_" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="61" translatesAutoresizingMaskIntoConstraints="NO" id="yEn-Jo-dES">
+                                <rect key="frame" x="80.666666666666671" y="248" width="231.66666666666663" height="61"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="32F-Cc-aVr">
+                                        <rect key="frame" x="115.99999999999999" y="0.0" width="0.0" height="0.0"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="1Eo-d1-8YG">
+                                        <rect key="frame" x="115.99999999999999" y="61" width="0.0" height="0.0"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="35" translatesAutoresizingMaskIntoConstraints="NO" id="mpu-Pc-PCA">
+                                <rect key="frame" x="29" y="379" width="335" height="35"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6g9-TE-q4U">
+                                        <rect key="frame" x="0.0" y="0.0" width="150" height="35"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="35" id="Nc7-6g-31q"/>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="106" id="PJE-He-Ih1"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Сложение"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <integer key="value" value="12"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="plusButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eNK-W0-9aJ"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hav-fg-aq7">
+                                        <rect key="frame" x="185" y="0.0" width="150" height="35"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="35" id="RmM-Bu-983"/>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="jpf-IW-ViK"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Угадай число"/>
+                                        <connections>
+                                            <action selector="randomButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PFf-T9-kyT"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.39273535833163109" green="0.66666668653488159" blue="0.63605705818294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="mpu-Pc-PCA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="29" id="bKf-pl-xku"/>
+                            <constraint firstItem="yEn-Jo-dES" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="80.666666666666686" id="gRy-Mu-q23"/>
+                            <constraint firstItem="yEn-Jo-dES" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="248" id="gYI-aN-gOg"/>
+                            <constraint firstItem="yEn-Jo-dES" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="iSJ-jU-uQ7"/>
+                            <constraint firstItem="mpu-Pc-PCA" firstAttribute="top" secondItem="yEn-Jo-dES" secondAttribute="bottom" constant="70" id="zK5-mf-QVf"/>
+                            <constraint firstItem="mpu-Pc-PCA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="zOU-I3-zJs"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="hiLabel" destination="32F-Cc-aVr" id="aL4-nB-Te3"/>
+                        <outlet property="hiLabelTwo" destination="1Eo-d1-8YG" id="4T1-aK-h7Q"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="135.1145038167939" y="3.5211267605633805"/>
+        </scene>
+    </scenes>
+</document>

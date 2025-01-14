@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "japanese-sushi-set-top-view-flat-lay-with-copy-space_522560-24585.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "japanese-sushi-set-top-view-flat-lay-with-copy-space_522560-24585 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "japanese-sushi-set-top-view-flat-lay-with-copy-space_522560-24585 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

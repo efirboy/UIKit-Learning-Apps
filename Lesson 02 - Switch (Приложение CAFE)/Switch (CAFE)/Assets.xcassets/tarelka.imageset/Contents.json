@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "1617180970_17-p-yeda-na-belom-fone-krasivo-20.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1617180970_17-p-yeda-na-belom-fone-krasivo-20 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1617180970_17-p-yeda-na-belom-fone-krasivo-20 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
