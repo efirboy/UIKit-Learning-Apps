@@ -11,11 +11,11 @@
 UIKit, AVFoundation
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%204%20-%20Slider%20(Приложение%20MUSIC%20Player)/UISlider%20(Music%20Player)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2004%20-%20Slider%20(Приложение%20MUSIC%20Player)/UISlider%20(Music%20Player)/Screenshots)
 
 ### Запись экрана приложения
 
-[Запись экрана приложения](https://raw.githubusercontent.com/efirboy/iOS-Learning-Apps/main/Lesson%204%20-%20Slider%20(Приложение%20MUSIC%20Player)/UISlider%20(Music%20Player)/Videos/MusicPlayerApp.MP4)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2004%20-%20Slider%20(Приложение%20MUSIC%20Player)/UISlider%20(Music%20Player)/Videos/MusicPlayerApp.MP4)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit, AVFoundation
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
