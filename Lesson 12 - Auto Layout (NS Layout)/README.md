@@ -11,11 +11,11 @@
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%2012%20-%20Auto%20Layout%20(NS%20Layout)/Auto%20Layout%20(myApp)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2012%20-%20Auto%20Layout%20(NS%20Layout)/Auto%20Layout%20(myApp)/Screenshots)
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%2012%20-%20Auto%20Layout%20(NS%20Layout)/Auto%20Layout%20(myApp)/Videos/AutoLayout%20(NSLayout).mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2012%20-%20Auto%20Layout%20(NS%20Layout)/Auto%20Layout%20(myApp)/Videos/AutoLayout%20(NSLayout).mov)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
