@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "spenser-sembrat-CZYgsM_GOIU.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "spenser-sembrat-CZYgsM_GOIU 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "spenser-sembrat-CZYgsM_GOIU 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

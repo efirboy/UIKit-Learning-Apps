@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "messi-family-dccf1384c5d74dc89e3bf2ea6f5417a9.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "messi-family-dccf1384c5d74dc89e3bf2ea6f5417a9 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "messi-family-dccf1384c5d74dc89e3bf2ea6f5417a9 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
