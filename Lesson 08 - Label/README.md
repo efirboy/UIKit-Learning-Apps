@@ -11,11 +11,11 @@
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%208%20-%20Label/UILabel(my%20app)/Screenshots/)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/blob/main/Lesson%2008%20-%20Label/UILabel(my%20app)/Screenshots)
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%208%20-%20Label/UILabel(my%20app)/Videos/LabelApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/blob/main/Lesson%2008%20-%20Label/UILabel(my%20app)/Videos/LabelApp.mov)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
