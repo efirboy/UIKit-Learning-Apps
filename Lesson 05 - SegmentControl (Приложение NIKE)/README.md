@@ -11,11 +11,11 @@
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%205%20-%20SegmentControl%20(Приложение%20NIKE)/UISegmentControl/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2005%20-%20SegmentControl%20(Приложение%20NIKE)/UISegmentControl/Screenshots)
 
 ### Запись экрана приложения
 
-[Запись экрана приложения](https://raw.githubusercontent.com/efirboy/iOS-Learning-Apps/main/Lesson%205%20-%20SegmentControl%20(Приложение%20NIKE)/UISegmentControl/Videos/SegmentApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2005%20-%20SegmentControl%20(Приложение%20NIKE)/UISegmentControl/Videos/SegmentApp.mov)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
