@@ -15,7 +15,7 @@
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/My-Project/tree/main/UIKit-Learning-Apps/Lesson%2013%20-%20TableView%20и%20CollectionView%20(%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20Instagram)/UITableView%20and%20UICollectionView%20(Instagram)/Screenshots/)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/UIKit-Learning-Apps/Lesson%2013%20-%20TableView%20и%20CollectionView%20(Приложение%20Instagram)/UITableView%20and%20UICollectionView%20(Instagram)/Screenshots)
 
 
 ### Запись экрана приложения
