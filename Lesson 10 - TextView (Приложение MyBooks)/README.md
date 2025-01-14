@@ -11,11 +11,11 @@
 UIKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%2010%20-%20TextView%20(Приложение%20MyBooks)/UITextView(myApp)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2010%20-%20TextView%20(Приложение%20MyBooks)/UITextView(myApp)/Screenshots)
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%2010%20-%20TextView%20(Приложение%20MyBooks)/UITextView(myApp)/Videos/TextViewApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2010%20-%20TextView%20(Приложение%20MyBooks)/UITextView(myApp)/Videos/TextViewApp.mov)
 
 
 ### Требования
@@ -26,4 +26,4 @@ UIKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
