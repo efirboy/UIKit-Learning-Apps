@@ -17,7 +17,7 @@ AVFoundation
 
 
 ### Запись экрана приложения
-[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/blob/main/Lesson%2007%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Videos/UITabBarControllerApp.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/raw/main/Lesson%2007%20-%20TabBarController%20и%20TabBarItem%20(Приложение%20Часы)/UITabBarController(my%20app)/Videos/UITabBarControllerApp.mov)
 
 
 ### Требования
