@@ -24,13 +24,13 @@ UIKit
 WebKit
 
 ### Скриншоты
-[Скриншоты приложения](https://github.com/efirboy/iOS-Learning-Apps/tree/main/Lesson%2011%20-%20ImageView%2C%20ScrollView%2C%20WKWebView%2C%20UIProgressView%2C%20Timer%2C%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20%2B%20UIScrollView%20(myApp)/Screenshots)
+[Скриншоты приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2011%20-%20ImageView,%20ScrollView,%20WKWebView,%20UIProgressView,%20Timer,%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20+%20UIScrollView%20(myApp)/Screenshots)
 
 
 ### Записи экрана приложения
-[Вход с онбордингом](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%2011%20-%20ImageView%2C%20ScrollView%2C%20WKWebView%2C%20UIProgressView%2C%20Timer%2C%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20%2B%20UIScrollView%20(myApp)/Videos/Onboarding.MP4)
+[Вход с онбордингом](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2011%20-%20ImageView,%20ScrollView,%20WKWebView,%20UIProgressView,%20Timer,%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20+%20UIScrollView%20(myApp)/Videos/Onboarding.MP4)
 
-[Запись экрана приложения](https://github.com/efirboy/iOS-Learning-Apps/raw/main/Lesson%2011%20-%20ImageView%2C%20ScrollView%2C%20WKWebView%2C%20UIProgressView%2C%20Timer%2C%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20%2B%20UIScrollView%20(myApp)/Videos/MainRecord.mov)
+[Запись экрана приложения](https://github.com/efirboy/UIKit-Learning-Apps/tree/main/Lesson%2011%20-%20ImageView,%20ScrollView,%20WKWebView,%20UIProgressView,%20Timer,%20PageViewController%20(Приложение%20Apple%20Store)/UIImageView%20+%20UIScrollView%20(myApp)/Videos/MainRecord.mov)
 
 
 ### Требования
@@ -41,4 +41,4 @@ WebKit
 ### Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/efirboy/iOS-Learning-Apps.git
+   git clone https://github.com/efirboy/UIKit-Learning-Apps.git
